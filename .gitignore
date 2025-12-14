@@ -1,0 +1,17 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+.venv/
+venv/
+
+# 运行产物不要上传（很大/不必要）
+outputs/
+outputs/*.pt
+outputs/*.pkl
+outputs/*.txt
+outputs/*.log
+
+# VS Code
+.vscode/
